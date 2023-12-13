@@ -28,6 +28,7 @@ const ColorPicker = () => {
     </div>
   )
 }
+export default ColorPicker
 
 export const ColorPickerStatic = () => {
   return (
@@ -52,5 +53,3 @@ export const ColorPickerStatic = () => {
      />
   )
 }
-
-export default ColorPicker
